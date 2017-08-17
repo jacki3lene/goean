@@ -1,0 +1,5 @@
+{
+  "url" : "https://book.api.ean.com/ean-services/rs/hotel/v3",
+  "api_key": "your_api_key_here",
+  "minor_rev" : "0.0.0.0:80"
+}
